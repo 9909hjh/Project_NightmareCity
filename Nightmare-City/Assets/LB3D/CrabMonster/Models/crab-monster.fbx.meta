@@ -1,0 +1,2500 @@
+fileFormatVersion: 2
+guid: 5779b1a41ccf45b45bfc238034373133
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Arm_1_L
+  - first:
+      1: 100002
+    second: Arm_1_R
+  - first:
+      1: 100004
+    second: Arm_2_L
+  - first:
+      1: 100006
+    second: Arm_2_R
+  - first:
+      1: 100008
+    second: Arm_3_L
+  - first:
+      1: 100010
+    second: Arm_3_R
+  - first:
+      1: 100012
+    second: Armature
+  - first:
+      1: 100014
+    second: Eyes
+  - first:
+      1: 100016
+    second: Floor
+  - first:
+      1: 100018
+    second: Floor_end
+  - first:
+      1: 100020
+    second: Head
+  - first:
+      1: 100022
+    second: Head_IK
+  - first:
+      1: 100024
+    second: Head_IK_end
+  - first:
+      1: 100026
+    second: Head_Look_IK
+  - first:
+      1: 100028
+    second: Head_Look_IK_end
+  - first:
+      1: 100030
+    second: Head_Target
+  - first:
+      1: 100032
+    second: Head_Target_end
+  - first:
+      1: 100034
+    second: Leg_B_1_L
+  - first:
+      1: 100036
+    second: Leg_B_1_R
+  - first:
+      1: 100038
+    second: Leg_B_2_L
+  - first:
+      1: 100040
+    second: Leg_B_2_R
+  - first:
+      1: 100042
+    second: Leg_B_3_L
+  - first:
+      1: 100044
+    second: Leg_B_3_R
+  - first:
+      1: 100046
+    second: Leg_B_4_L
+  - first:
+      1: 100048
+    second: Leg_B_4_R
+  - first:
+      1: 100050
+    second: Leg_B_5_L
+  - first:
+      1: 100052
+    second: Leg_B_5_R
+  - first:
+      1: 100054
+    second: Leg_B_Guide_L
+  - first:
+      1: 100056
+    second: Leg_B_Guide_L_end
+  - first:
+      1: 100058
+    second: Leg_B_Guide_R
+  - first:
+      1: 100060
+    second: Leg_B_Guide_R_end
+  - first:
+      1: 100062
+    second: Leg_B_IK_L
+  - first:
+      1: 100064
+    second: Leg_B_IK_L_end
+  - first:
+      1: 100066
+    second: Leg_B_IK_R
+  - first:
+      1: 100068
+    second: Leg_B_IK_R_end
+  - first:
+      1: 100070
+    second: Leg_F_1_L
+  - first:
+      1: 100072
+    second: Leg_F_1_R
+  - first:
+      1: 100074
+    second: Leg_F_3_L
+  - first:
+      1: 100076
+    second: Leg_F_3_R
+  - first:
+      1: 100078
+    second: Leg_F_4_L
+  - first:
+      1: 100080
+    second: Leg_F_4_R
+  - first:
+      1: 100082
+    second: Leg_F_5_L
+  - first:
+      1: 100084
+    second: Leg_F_5_R
+  - first:
+      1: 100086
+    second: Leg_F_6_L
+  - first:
+      1: 100088
+    second: Leg_F_6_R
+  - first:
+      1: 100090
+    second: Leg_F_Guide_L
+  - first:
+      1: 100092
+    second: Leg_F_Guide_L_end
+  - first:
+      1: 100094
+    second: Leg_F_Guide_R
+  - first:
+      1: 100096
+    second: Leg_F_Guide_R_end
+  - first:
+      1: 100098
+    second: Leg_F_IK_L
+  - first:
+      1: 100100
+    second: Leg_F_IK_L_end
+  - first:
+      1: 100102
+    second: Leg_F_IK_R
+  - first:
+      1: 100104
+    second: Leg_F_IK_R_end
+  - first:
+      1: 100106
+    second: Mandible_B_L
+  - first:
+      1: 100108
+    second: Mandible_B_R
+  - first:
+      1: 100110
+    second: Mandible_F_L
+  - first:
+      1: 100112
+    second: Mandible_F_R
+  - first:
+      1: 100114
+    second: Mandible_M_L
+  - first:
+      1: 100116
+    second: Mandible_M_R
+  - first:
+      1: 100118
+    second: Mouth_Movement_Even
+  - first:
+      1: 100120
+    second: Mouth_Movement_Even_end
+  - first:
+      1: 100122
+    second: Mouth_Movement_Odd
+  - first:
+      1: 100124
+    second: Mouth_Movement_Odd_end
+  - first:
+      1: 100126
+    second: Pincer_1_L
+  - first:
+      1: 100128
+    second: Pincer_1_R
+  - first:
+      1: 100130
+    second: Pincer_2_L
+  - first:
+      1: 100132
+    second: Pincer_2_R
+  - first:
+      1: 100134
+    second: Pincer_3_L
+  - first:
+      1: 100136
+    second: Pincer_3_R
+  - first:
+      1: 100138
+    second: Pincer_4_L
+  - first:
+      1: 100140
+    second: Pincer_4_R
+  - first:
+      1: 100142
+    second: Pincer_Claw_1_L
+  - first:
+      1: 100144
+    second: Pincer_Claw_1_L_end
+  - first:
+      1: 100146
+    second: Pincer_Claw_1_R
+  - first:
+      1: 100148
+    second: Pincer_Claw_1_R_end
+  - first:
+      1: 100150
+    second: Pincer_Claw_2_L
+  - first:
+      1: 100152
+    second: Pincer_Claw_2_L_end
+  - first:
+      1: 100154
+    second: Pincer_Claw_2_R
+  - first:
+      1: 100156
+    second: Pincer_Claw_2_R_end
+  - first:
+      1: 100158
+    second: Pincer_IK_L
+  - first:
+      1: 100160
+    second: Pincer_IK_L_end
+  - first:
+      1: 100162
+    second: Pincer_IK_R
+  - first:
+      1: 100164
+    second: Pincer_IK_R_end
+  - first:
+      1: 100166
+    second: Pincer_Target_L
+  - first:
+      1: 100168
+    second: Pincer_Target_L_end
+  - first:
+      1: 100170
+    second: Pincer_Target_R
+  - first:
+      1: 100172
+    second: Pincer_Target_R_end
+  - first:
+      1: 100174
+    second: //RootNode
+  - first:
+      1: 100176
+    second: Rikayon
+  - first:
+      1: 100178
+    second: Root
+  - first:
+      1: 100180
+    second: Spike_Guide_L
+  - first:
+      1: 100182
+    second: Spike_Guide_L_end
+  - first:
+      1: 100184
+    second: Spike_Guide_R
+  - first:
+      1: 100186
+    second: Spike_Guide_R_end
+  - first:
+      1: 100188
+    second: Spike_IK_L
+  - first:
+      1: 100190
+    second: Spike_IK_L_end
+  - first:
+      1: 100192
+    second: Spike_IK_R
+  - first:
+      1: 100194
+    second: Spike_IK_R_end
+  - first:
+      1: 100196
+    second: Spike_L
+  - first:
+      1: 100198
+    second: Spike_R
+  - first:
+      1: 100200
+    second: Tail_1
+  - first:
+      1: 100202
+    second: Tail_2
+  - first:
+      1: 100204
+    second: Tail_2_end
+  - first:
+      1: 100206
+    second: Thorax_1
+  - first:
+      1: 100208
+    second: Thorax_2
+  - first:
+      1: 100210
+    second: Thorax_3
+  - first:
+      1: 100212
+    second: Tooth_B_IK_L
+  - first:
+      1: 100214
+    second: Tooth_B_IK_L_end
+  - first:
+      1: 100216
+    second: Tooth_B_IK_R
+  - first:
+      1: 100218
+    second: Tooth_B_IK_R_end
+  - first:
+      1: 100220
+    second: Tooth_B_L
+  - first:
+      1: 100222
+    second: Tooth_B_R
+  - first:
+      1: 100224
+    second: Tooth_B_Target_L
+  - first:
+      1: 100226
+    second: Tooth_B_Target_L_end
+  - first:
+      1: 100228
+    second: Tooth_B_Target_R
+  - first:
+      1: 100230
+    second: Tooth_B_Target_R_end
+  - first:
+      1: 100232
+    second: Tooth_F_IK_L
+  - first:
+      1: 100234
+    second: Tooth_F_IK_L_end
+  - first:
+      1: 100236
+    second: Tooth_F_IK_R
+  - first:
+      1: 100238
+    second: Tooth_F_IK_R_end
+  - first:
+      1: 100240
+    second: Tooth_F_L
+  - first:
+      1: 100242
+    second: Tooth_F_R
+  - first:
+      1: 100244
+    second: Tooth_F_Target_L
+  - first:
+      1: 100246
+    second: Tooth_F_Target_L_end
+  - first:
+      1: 100248
+    second: Tooth_F_Target_R
+  - first:
+      1: 100250
+    second: Tooth_F_Target_R_end
+  - first:
+      1: 100252
+    second: Tooth_M_IK_L
+  - first:
+      1: 100254
+    second: Tooth_M_IK_L_end
+  - first:
+      1: 100256
+    second: Tooth_M_IK_R
+  - first:
+      1: 100258
+    second: Tooth_M_IK_R_end
+  - first:
+      1: 100260
+    second: Tooth_M_L
+  - first:
+      1: 100262
+    second: Tooth_M_R
+  - first:
+      1: 100264
+    second: Tooth_M_Target_L
+  - first:
+      1: 100266
+    second: Tooth_M_Target_L_end
+  - first:
+      1: 100268
+    second: Tooth_M_Target_R
+  - first:
+      1: 100270
+    second: Tooth_M_Target_R_end
+  - first:
+      1: 100272
+    second: Rikayon_MeshPart0
+  - first:
+      1: 100274
+    second: Rikayon_MeshPart1
+  - first:
+      1: 100276
+    second: Rikayon_MeshPart10
+  - first:
+      1: 100278
+    second: Rikayon_MeshPart2
+  - first:
+      1: 100280
+    second: Rikayon_MeshPart3
+  - first:
+      1: 100282
+    second: Rikayon_MeshPart4
+  - first:
+      1: 100284
+    second: Rikayon_MeshPart5
+  - first:
+      1: 100286
+    second: Rikayon_MeshPart6
+  - first:
+      1: 100288
+    second: Rikayon_MeshPart7
+  - first:
+      1: 100290
+    second: Rikayon_MeshPart8
+  - first:
+      1: 100292
+    second: Rikayon_MeshPart9
+  - first:
+      4: 400000
+    second: Arm_1_L
+  - first:
+      4: 400002
+    second: Arm_1_R
+  - first:
+      4: 400004
+    second: Arm_2_L
+  - first:
+      4: 400006
+    second: Arm_2_R
+  - first:
+      4: 400008
+    second: Arm_3_L
+  - first:
+      4: 400010
+    second: Arm_3_R
+  - first:
+      4: 400012
+    second: Armature
+  - first:
+      4: 400014
+    second: Eyes
+  - first:
+      4: 400016
+    second: Floor
+  - first:
+      4: 400018
+    second: Floor_end
+  - first:
+      4: 400020
+    second: Head
+  - first:
+      4: 400022
+    second: Head_IK
+  - first:
+      4: 400024
+    second: Head_IK_end
+  - first:
+      4: 400026
+    second: Head_Look_IK
+  - first:
+      4: 400028
+    second: Head_Look_IK_end
+  - first:
+      4: 400030
+    second: Head_Target
+  - first:
+      4: 400032
+    second: Head_Target_end
+  - first:
+      4: 400034
+    second: Leg_B_1_L
+  - first:
+      4: 400036
+    second: Leg_B_1_R
+  - first:
+      4: 400038
+    second: Leg_B_2_L
+  - first:
+      4: 400040
+    second: Leg_B_2_R
+  - first:
+      4: 400042
+    second: Leg_B_3_L
+  - first:
+      4: 400044
+    second: Leg_B_3_R
+  - first:
+      4: 400046
+    second: Leg_B_4_L
+  - first:
+      4: 400048
+    second: Leg_B_4_R
+  - first:
+      4: 400050
+    second: Leg_B_5_L
+  - first:
+      4: 400052
+    second: Leg_B_5_R
+  - first:
+      4: 400054
+    second: Leg_B_Guide_L
+  - first:
+      4: 400056
+    second: Leg_B_Guide_L_end
+  - first:
+      4: 400058
+    second: Leg_B_Guide_R
+  - first:
+      4: 400060
+    second: Leg_B_Guide_R_end
+  - first:
+      4: 400062
+    second: Leg_B_IK_L
+  - first:
+      4: 400064
+    second: Leg_B_IK_L_end
+  - first:
+      4: 400066
+    second: Leg_B_IK_R
+  - first:
+      4: 400068
+    second: Leg_B_IK_R_end
+  - first:
+      4: 400070
+    second: Leg_F_1_L
+  - first:
+      4: 400072
+    second: Leg_F_1_R
+  - first:
+      4: 400074
+    second: Leg_F_3_L
+  - first:
+      4: 400076
+    second: Leg_F_3_R
+  - first:
+      4: 400078
+    second: Leg_F_4_L
+  - first:
+      4: 400080
+    second: Leg_F_4_R
+  - first:
+      4: 400082
+    second: Leg_F_5_L
+  - first:
+      4: 400084
+    second: Leg_F_5_R
+  - first:
+      4: 400086
+    second: Leg_F_6_L
+  - first:
+      4: 400088
+    second: Leg_F_6_R
+  - first:
+      4: 400090
+    second: Leg_F_Guide_L
+  - first:
+      4: 400092
+    second: Leg_F_Guide_L_end
+  - first:
+      4: 400094
+    second: Leg_F_Guide_R
+  - first:
+      4: 400096
+    second: Leg_F_Guide_R_end
+  - first:
+      4: 400098
+    second: Leg_F_IK_L
+  - first:
+      4: 400100
+    second: Leg_F_IK_L_end
+  - first:
+      4: 400102
+    second: Leg_F_IK_R
+  - first:
+      4: 400104
+    second: Leg_F_IK_R_end
+  - first:
+      4: 400106
+    second: Mandible_B_L
+  - first:
+      4: 400108
+    second: Mandible_B_R
+  - first:
+      4: 400110
+    second: Mandible_F_L
+  - first:
+      4: 400112
+    second: Mandible_F_R
+  - first:
+      4: 400114
+    second: Mandible_M_L
+  - first:
+      4: 400116
+    second: Mandible_M_R
+  - first:
+      4: 400118
+    second: Mouth_Movement_Even
+  - first:
+      4: 400120
+    second: Mouth_Movement_Even_end
+  - first:
+      4: 400122
+    second: Mouth_Movement_Odd
+  - first:
+      4: 400124
+    second: Mouth_Movement_Odd_end
+  - first:
+      4: 400126
+    second: Pincer_1_L
+  - first:
+      4: 400128
+    second: Pincer_1_R
+  - first:
+      4: 400130
+    second: Pincer_2_L
+  - first:
+      4: 400132
+    second: Pincer_2_R
+  - first:
+      4: 400134
+    second: Pincer_3_L
+  - first:
+      4: 400136
+    second: Pincer_3_R
+  - first:
+      4: 400138
+    second: Pincer_4_L
+  - first:
+      4: 400140
+    second: Pincer_4_R
+  - first:
+      4: 400142
+    second: Pincer_Claw_1_L
+  - first:
+      4: 400144
+    second: Pincer_Claw_1_L_end
+  - first:
+      4: 400146
+    second: Pincer_Claw_1_R
+  - first:
+      4: 400148
+    second: Pincer_Claw_1_R_end
+  - first:
+      4: 400150
+    second: Pincer_Claw_2_L
+  - first:
+      4: 400152
+    second: Pincer_Claw_2_L_end
+  - first:
+      4: 400154
+    second: Pincer_Claw_2_R
+  - first:
+      4: 400156
+    second: Pincer_Claw_2_R_end
+  - first:
+      4: 400158
+    second: Pincer_IK_L
+  - first:
+      4: 400160
+    second: Pincer_IK_L_end
+  - first:
+      4: 400162
+    second: Pincer_IK_R
+  - first:
+      4: 400164
+    second: Pincer_IK_R_end
+  - first:
+      4: 400166
+    second: Pincer_Target_L
+  - first:
+      4: 400168
+    second: Pincer_Target_L_end
+  - first:
+      4: 400170
+    second: Pincer_Target_R
+  - first:
+      4: 400172
+    second: Pincer_Target_R_end
+  - first:
+      4: 400174
+    second: //RootNode
+  - first:
+      4: 400176
+    second: Rikayon
+  - first:
+      4: 400178
+    second: Root
+  - first:
+      4: 400180
+    second: Spike_Guide_L
+  - first:
+      4: 400182
+    second: Spike_Guide_L_end
+  - first:
+      4: 400184
+    second: Spike_Guide_R
+  - first:
+      4: 400186
+    second: Spike_Guide_R_end
+  - first:
+      4: 400188
+    second: Spike_IK_L
+  - first:
+      4: 400190
+    second: Spike_IK_L_end
+  - first:
+      4: 400192
+    second: Spike_IK_R
+  - first:
+      4: 400194
+    second: Spike_IK_R_end
+  - first:
+      4: 400196
+    second: Spike_L
+  - first:
+      4: 400198
+    second: Spike_R
+  - first:
+      4: 400200
+    second: Tail_1
+  - first:
+      4: 400202
+    second: Tail_2
+  - first:
+      4: 400204
+    second: Tail_2_end
+  - first:
+      4: 400206
+    second: Thorax_1
+  - first:
+      4: 400208
+    second: Thorax_2
+  - first:
+      4: 400210
+    second: Thorax_3
+  - first:
+      4: 400212
+    second: Tooth_B_IK_L
+  - first:
+      4: 400214
+    second: Tooth_B_IK_L_end
+  - first:
+      4: 400216
+    second: Tooth_B_IK_R
+  - first:
+      4: 400218
+    second: Tooth_B_IK_R_end
+  - first:
+      4: 400220
+    second: Tooth_B_L
+  - first:
+      4: 400222
+    second: Tooth_B_R
+  - first:
+      4: 400224
+    second: Tooth_B_Target_L
+  - first:
+      4: 400226
+    second: Tooth_B_Target_L_end
+  - first:
+      4: 400228
+    second: Tooth_B_Target_R
+  - first:
+      4: 400230
+    second: Tooth_B_Target_R_end
+  - first:
+      4: 400232
+    second: Tooth_F_IK_L
+  - first:
+      4: 400234
+    second: Tooth_F_IK_L_end
+  - first:
+      4: 400236
+    second: Tooth_F_IK_R
+  - first:
+      4: 400238
+    second: Tooth_F_IK_R_end
+  - first:
+      4: 400240
+    second: Tooth_F_L
+  - first:
+      4: 400242
+    second: Tooth_F_R
+  - first:
+      4: 400244
+    second: Tooth_F_Target_L
+  - first:
+      4: 400246
+    second: Tooth_F_Target_L_end
+  - first:
+      4: 400248
+    second: Tooth_F_Target_R
+  - first:
+      4: 400250
+    second: Tooth_F_Target_R_end
+  - first:
+      4: 400252
+    second: Tooth_M_IK_L
+  - first:
+      4: 400254
+    second: Tooth_M_IK_L_end
+  - first:
+      4: 400256
+    second: Tooth_M_IK_R
+  - first:
+      4: 400258
+    second: Tooth_M_IK_R_end
+  - first:
+      4: 400260
+    second: Tooth_M_L
+  - first:
+      4: 400262
+    second: Tooth_M_R
+  - first:
+      4: 400264
+    second: Tooth_M_Target_L
+  - first:
+      4: 400266
+    second: Tooth_M_Target_L_end
+  - first:
+      4: 400268
+    second: Tooth_M_Target_R
+  - first:
+      4: 400270
+    second: Tooth_M_Target_R_end
+  - first:
+      4: 400272
+    second: Rikayon_MeshPart0
+  - first:
+      4: 400274
+    second: Rikayon_MeshPart1
+  - first:
+      4: 400276
+    second: Rikayon_MeshPart10
+  - first:
+      4: 400278
+    second: Rikayon_MeshPart2
+  - first:
+      4: 400280
+    second: Rikayon_MeshPart3
+  - first:
+      4: 400282
+    second: Rikayon_MeshPart4
+  - first:
+      4: 400284
+    second: Rikayon_MeshPart5
+  - first:
+      4: 400286
+    second: Rikayon_MeshPart6
+  - first:
+      4: 400288
+    second: Rikayon_MeshPart7
+  - first:
+      4: 400290
+    second: Rikayon_MeshPart8
+  - first:
+      4: 400292
+    second: Rikayon_MeshPart9
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Rikayon
+  - first:
+      43: 4300002
+    second: Eyes
+  - first:
+      43: 4300004
+    second: Rikayon_MeshPart0
+  - first:
+      43: 4300006
+    second: Rikayon_MeshPart1
+  - first:
+      43: 4300008
+    second: Rikayon_MeshPart2
+  - first:
+      43: 4300010
+    second: Rikayon_MeshPart3
+  - first:
+      43: 4300012
+    second: Rikayon_MeshPart4
+  - first:
+      43: 4300014
+    second: Rikayon_MeshPart5
+  - first:
+      43: 4300016
+    second: Rikayon_MeshPart6
+  - first:
+      43: 4300018
+    second: Rikayon_MeshPart7
+  - first:
+      43: 4300020
+    second: Rikayon_MeshPart8
+  - first:
+      43: 4300022
+    second: Rikayon_MeshPart9
+  - first:
+      43: 4300024
+    second: Rikayon_MeshPart10
+  - first:
+      74: 7400000
+    second: Rest_1
+  - first:
+      74: 7400002
+    second: Fight_Idle_1
+  - first:
+      74: 7400004
+    second: Armature|Attack_1
+  - first:
+      74: 7400006
+    second: Armature|Fight_Idle_1
+  - first:
+      74: 7400008
+    second: Armature|Rest
+  - first:
+      74: 7400010
+    second: Armature|Rest_1
+  - first:
+      74: 7400012
+    second: Armature|Walk_Cycle
+  - first:
+      74: 7400014
+    second: Armature|Walk_Cycle_1
+  - first:
+      74: 7400016
+    second: Armature|Walk_Cycle_2
+  - first:
+      74: 7400018
+    second: Armature|Walk_Cycle_3
+  - first:
+      74: 7400020
+    second: Armature|Run_Cycle_1
+  - first:
+      74: 7400022
+    second: Armature|Sneak_Cycle_1
+  - first:
+      74: 7400024
+    second: Armature|Attack_2
+  - first:
+      74: 7400026
+    second: Armature|Attack_3
+  - first:
+      74: 7400028
+    second: Armature|Abduct
+  - first:
+      74: 7400030
+    second: Armature|Attack_4
+  - first:
+      74: 7400032
+    second: Armature|Eat_Cycle_1
+  - first:
+      74: 7400034
+    second: Armature|Take_Damage_1
+  - first:
+      74: 7400036
+    second: Armature|Take_Damage_2
+  - first:
+      74: 7400038
+    second: Armature|Take_Damage_3
+  - first:
+      74: 7400040
+    second: Armature|Sleep
+  - first:
+      74: 7400042
+    second: Armature|Roar_Screach
+  - first:
+      74: 7400044
+    second: Armature|Intimidate
+  - first:
+      74: 7400046
+    second: Armature|Intimidate_3
+  - first:
+      74: 7400048
+    second: Armature|Intimidate_2
+  - first:
+      74: 7400050
+    second: Armature|Intimidate_1
+  - first:
+      74: 7400052
+    second: Die
+  - first:
+      74: 7400054
+    second: Armature|Attack_5
+  - first:
+      74: 7400056
+    second: Armature|Die
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Eyes
+  - first:
+      137: 13700002
+    second: Rikayon
+  - first:
+      137: 13700004
+    second: Rikayon_MeshPart0
+  - first:
+      137: 13700006
+    second: Rikayon_MeshPart1
+  - first:
+      137: 13700008
+    second: Rikayon_MeshPart10
+  - first:
+      137: 13700010
+    second: Rikayon_MeshPart2
+  - first:
+      137: 13700012
+    second: Rikayon_MeshPart3
+  - first:
+      137: 13700014
+    second: Rikayon_MeshPart4
+  - first:
+      137: 13700016
+    second: Rikayon_MeshPart5
+  - first:
+      137: 13700018
+    second: Rikayon_MeshPart6
+  - first:
+      137: 13700020
+    second: Rikayon_MeshPart7
+  - first:
+      137: 13700022
+    second: Rikayon_MeshPart8
+  - first:
+      137: 13700024
+    second: Rikayon_MeshPart9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes
+    second: {fileID: 2100000, guid: debb471f6867386458e8629f4c60f19f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rikayon
+    second: {fileID: 2100000, guid: e061968e56112fe4ca8c0ad3347c2a0d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rest_1
+      takeName: Rest_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fight_Idle_1
+      takeName: Fight_Idle_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Attack_1
+      takeName: Armature|Attack_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.34425506
+        functionName: MonAttack
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 88497737c8b2ea645a511d967f064dd9, type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.59772724
+        functionName: AttackDestroy
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 88497737c8b2ea645a511d967f064dd9, type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Fight_Idle_1
+      takeName: Armature|Fight_Idle_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Rest
+      takeName: Armature|Rest
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Rest_1
+      takeName: Armature|Rest_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk_Cycle_1
+      takeName: Armature|Walk_Cycle_1
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 1
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk_Cycle_2
+      takeName: Armature|Walk_Cycle_2
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Sneak_Cycle_1
+      takeName: Armature|Sneak_Cycle_1
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Attack_2
+      takeName: Armature|Attack_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Attack_3
+      takeName: Armature|Attack_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Attack_4
+      takeName: Armature|Attack_4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Eat_Cycle_1
+      takeName: Armature|Eat_Cycle_1
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Take_Damage_1
+      takeName: Armature|Take_Damage_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Take_Damage_2
+      takeName: Armature|Take_Damage_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Take_Damage_3
+      takeName: Armature|Take_Damage_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Sleep
+      takeName: Armature|Sleep
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Intimidate_3
+      takeName: Armature|Intimidate_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Intimidate_2
+      takeName: Armature|Intimidate_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Intimidate_1
+      takeName: Armature|Intimidate_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Die
+      takeName: Armature|Die
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Attack_5
+      takeName: Armature|Attack_5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: crab-monster(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: crab-monster(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: 5.302452e-33, z: 5.302451e-33, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Root
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: -0.000000026692534, z: 0.000000026692538, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thorax_1
+      parentName: Root
+      position: {x: -1.6653345e-16, y: 0.0074020843, z: -0.006112865}
+      rotation: {x: 0.36377954, y: -0.0000017766666, z: -0.0000006938547, w: 0.9314851}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Thorax_2
+      parentName: Thorax_1
+      position: {x: -2.5579537e-15, y: 0.006600695, z: -5.960566e-10}
+      rotation: {x: -0.44580588, y: 0.000001707324, z: 0.00000085030763, w: 0.8951297}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Thorax_3
+      parentName: Thorax_2
+      position: {x: -2.842171e-16, y: 0.0043683625, z: 7.4505824e-10}
+      rotation: {x: 0.000000012842179, y: 0.98542744, z: 0.1700967, w: 0.0000000743978}
+      scale: {x: 1, y: 1.0000013, z: 1.0000001}
+    - name: Head
+      parentName: Thorax_3
+      position: {x: -1.3855583e-15, y: 0.004759061, z: -2.9802322e-10}
+      rotation: {x: -0.49279982, y: -0.0000017585419, z: 0.0000010689754, w: 0.8701427}
+      scale: {x: 1.0000011, y: 1.0000001, z: 1.0000004}
+    - name: Mandible_F_L
+      parentName: Head
+      position: {x: 0.000878247, y: 0.0048795966, z: -0.0029553617}
+      rotation: {x: -0.6893778, y: 0.53477854, z: -0.4470097, w: 0.19736399}
+      scale: {x: 1.0000024, y: 0.9999988, z: 0.9999979}
+    - name: Tooth_F_L
+      parentName: Mandible_F_L
+      position: {x: -0.0000000012293457, y: 0.0004733241, z: -0.0000000024726614}
+      rotation: {x: -0.108464845, y: -0.006998658, z: -0.056546036, w: 0.9924661}
+      scale: {x: 1.0000014, y: 0.99999976, z: 1.000002}
+    - name: Tooth_F_IK_L
+      parentName: Tooth_F_L
+      position: {x: 3.0733643e-10, y: 0.00047562143, z: -2.8871e-10}
+      rotation: {x: -0.177978, y: -0.6815455, z: -0.2876433, w: -0.6489075}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000011}
+    - name: Tooth_F_IK_L_end
+      parentName: Tooth_F_IK_L
+      position: {x: -0, y: 0.0002556806, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mandible_F_R
+      parentName: Head
+      position: {x: -0.0008782716, y: 0.004879596, z: -0.0029553561}
+      rotation: {x: -0.68937635, y: -0.5347787, z: 0.4470114, w: 0.19736488}
+      scale: {x: 1.0000019, y: 0.9999983, z: 0.99999934}
+    - name: Tooth_F_R
+      parentName: Mandible_F_R
+      position: {x: -5.9371813e-10, y: 0.00047332508, z: 0.0000000013411044}
+      rotation: {x: -0.10846344, y: 0.0069984123, z: 0.056546032, w: 0.99246633}
+      scale: {x: 1.0000002, y: 1.0000008, z: 0.9999993}
+    - name: Tooth_F_IK_R
+      parentName: Tooth_F_R
+      position: {x: -3.085006e-10, y: 0.0004756227, z: 3.9231962e-10}
+      rotation: {x: 0.1779785, y: -0.68154544, z: -0.28764358, w: 0.6489074}
+      scale: {x: 0.99999577, y: 1.0000036, z: 1.0000001}
+    - name: Tooth_F_IK_R_end
+      parentName: Tooth_F_IK_R
+      position: {x: -0, y: 0.0002556806, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mandible_M_L
+      parentName: Head
+      position: {x: 0.0012975777, y: 0.004027689, z: -0.0028837838}
+      rotation: {x: 0.5637747, y: -0.66004753, z: 0.44776338, w: -0.21448399}
+      scale: {x: 1.0000006, y: 0.9999994, z: 0.9999995}
+    - name: Tooth_M_L
+      parentName: Mandible_M_L
+      position: {x: -8.1956386e-10, y: 0.0005997608, z: 0.0000000012293457}
+      rotation: {x: -0.11419289, y: -0.000000074505806, z: -0.03946072, w: 0.99267465}
+      scale: {x: 1.0000006, y: 1.0000008, z: 0.9999991}
+    - name: Tooth_M_IK_L
+      parentName: Tooth_M_L
+      position: {x: -9.965151e-10, y: 0.0007386669, z: 7.21775e-10}
+      rotation: {x: 0.35386837, y: 0.57832694, z: 0.23449239, w: 0.6966552}
+      scale: {x: 0.99999547, y: 1.0000045, z: 0.9999988}
+    - name: Tooth_M_IK_L_end
+      parentName: Tooth_M_IK_L
+      position: {x: -0, y: 0.00031072853, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mandible_M_R
+      parentName: Head
+      position: {x: -0.0012976024, y: 0.004027689, z: -0.0028837726}
+      rotation: {x: -0.5637728, y: -0.66004676, z: 0.44776577, w: 0.2144864}
+      scale: {x: 1.0000002, y: 0.99999946, z: 0.9999982}
+    - name: Tooth_M_R
+      parentName: Mandible_M_R
+      position: {x: 0.000000002235174, y: 0.00059976045, z: -0.000000001238659}
+      rotation: {x: -0.114192575, y: 0.00000017881392, z: 0.039460596, w: 0.9926747}
+      scale: {x: 1.0000007, y: 0.9999992, z: 0.99999946}
+    - name: Tooth_M_IK_R
+      parentName: Tooth_M_R
+      position: {x: -1.4551915e-10, y: 0.0007386669, z: 0.000000001967419}
+      rotation: {x: 0.3538683, y: -0.5783269, z: -0.23449221, w: 0.6966554}
+      scale: {x: 0.9999992, y: 1.0000015, z: 1.0000005}
+    - name: Tooth_M_IK_R_end
+      parentName: Tooth_M_IK_R
+      position: {x: -0, y: 0.00031072853, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mandible_B_L
+      parentName: Head
+      position: {x: 0.0009345849, y: 0.0027053035, z: -0.0024624513}
+      rotation: {x: -0.59935194, y: 0.5109116, z: -0.41251624, w: 0.4577959}
+      scale: {x: 0.99999857, y: 1.0000012, z: 1.0000004}
+    - name: Tooth_B_L
+      parentName: Mandible_B_L
+      position: {x: 0.0000000017788261, y: 0.0005891035, z: 6.705522e-10}
+      rotation: {x: -0.15413761, y: -0.00000004470348, z: 0.022041408, w: 0.9878035}
+      scale: {x: 1.0000007, y: 0.9999978, z: 1.0000011}
+    - name: Tooth_B_IK_L
+      parentName: Tooth_B_L
+      position: {x: -0.0000000029150395, y: 0.00067154743, z: -5.3085386e-10}
+      rotation: {x: -0.30207026, y: -0.746105, z: -0.060664926, w: -0.59025484}
+      scale: {x: 1.0000011, y: 0.99999845, z: 1.0000014}
+    - name: Tooth_B_IK_L_end
+      parentName: Tooth_B_IK_L
+      position: {x: -0, y: 0.00031072853, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mandible_B_R
+      parentName: Head
+      position: {x: -0.00093460514, y: 0.002705302, z: -0.0024624448}
+      rotation: {x: -0.5993501, y: -0.5109096, z: 0.41251895, w: 0.4577981}
+      scale: {x: 0.99999905, y: 1.0000008, z: 1.0000007}
+    - name: Tooth_B_R
+      parentName: Mandible_B_R
+      position: {x: 4.2055033e-11, y: 0.0005891026, z: 1.11758706e-10}
+      rotation: {x: -0.154138, y: 0.000000119209275, z: -0.022041405, w: 0.9878035}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Tooth_B_IK_R
+      parentName: Tooth_B_R
+      position: {x: -0.0000000011545762, y: 0.0006715475, z: -0.0000000016111881}
+      rotation: {x: 0.30207032, y: -0.7461051, z: -0.060665097, w: 0.5902548}
+      scale: {x: 1.0000008, y: 0.99999976, z: 1.0000007}
+    - name: Tooth_B_IK_R_end
+      parentName: Tooth_B_IK_R
+      position: {x: -0, y: 0.00031072853, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_IK
+      parentName: Head
+      position: {x: 6.82121e-15, y: 0.012744795, z: 0.0000000041722976}
+      rotation: {x: 0.020086227, y: 0.000013982711, z: 0.00000019528349, w: 0.9997983}
+      scale: {x: 1.0000006, y: 0.99999964, z: 1}
+    - name: Head_IK_end
+      parentName: Head_IK
+      position: {x: -0, y: 0.0019523823, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_Look_IK
+      parentName: Head
+      position: {x: -0.000000011937013, y: 0.0056330496, z: -0.0028518995}
+      rotation: {x: -0.356064, y: 0.000013041983, z: -0.0000034788532, w: 0.93446165}
+      scale: {x: 1.0000005, y: 1.000001, z: 0.999999}
+    - name: Head_Look_IK_end
+      parentName: Head_Look_IK
+      position: {x: -0, y: 0.0019523824, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth_Movement_Odd
+      parentName: Head
+      position: {x: -0.000000018472628, y: 0.0041681645, z: -0.003418163}
+      rotation: {x: -0.0000012402003, y: -0.8273178, z: -0.5617342, w: 0.0000016404447}
+      scale: {x: 1, y: 0.999999, z: 1.0000004}
+    - name: Mouth_Movement_Odd_end
+      parentName: Mouth_Movement_Odd
+      position: {x: -0, y: 0.0010537314, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth_Movement_Even
+      parentName: Head
+      position: {x: -0.000000015152041, y: 0.0035284853, z: -0.002626328}
+      rotation: {x: -0.0000012402003, y: -0.8273178, z: -0.5617342, w: 0.0000016404447}
+      scale: {x: 1, y: 0.999999, z: 1.0000004}
+    - name: Mouth_Movement_Even_end
+      parentName: Mouth_Movement_Even
+      position: {x: -0, y: 0.0010537314, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arm_1_L
+      parentName: Thorax_2
+      position: {x: -0.004438215, y: 0.0012184274, z: 0.0013156357}
+      rotation: {x: 0.46537486, y: -0.43532622, z: 0.5405348, w: 0.5493082}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: Arm_2_L
+      parentName: Arm_1_L
+      position: {x: 5.9604643e-10, y: 0.0062890477, z: 0.0000000019371509}
+      rotation: {x: 0.011516406, y: 0.7447541, z: -0.034130786, w: -0.66636616}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000007}
+    - name: Arm_3_L
+      parentName: Arm_2_L
+      position: {x: -1.4901161e-10, y: 0.006851984, z: -0.0000000023841857}
+      rotation: {x: -0.3605013, y: -0.7196112, z: 0.23254827, w: 0.5460035}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.99999946}
+    - name: Spike_L
+      parentName: Arm_3_L
+      position: {x: -3.72529e-10, y: 0.005991912, z: -5.9604643e-10}
+      rotation: {x: -0.28462493, y: 0.3577017, z: -0.016091509, w: 0.88925767}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000002}
+    - name: Spike_IK_L
+      parentName: Spike_L
+      position: {x: -2.9802322e-10, y: 0.008424725, z: 2.2351741e-10}
+      rotation: {x: -0.030883428, y: -0.58989495, z: 0.0061853817, w: 0.80686545}
+      scale: {x: 1.0000005, y: 1, z: 1.0000001}
+    - name: Spike_IK_L_end
+      parentName: Spike_IK_L
+      position: {x: -0, y: 0.0020670118, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arm_1_R
+      parentName: Thorax_2
+      position: {x: 0.0044382145, y: 0.0012184278, z: 0.0013156357}
+      rotation: {x: 0.46537507, y: 0.43532586, z: -0.5405349, w: 0.5493081}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
+    - name: Arm_2_R
+      parentName: Arm_1_R
+      position: {x: -5.9604643e-10, y: 0.0062890463, z: 0.0000000010430813}
+      rotation: {x: -0.011516638, y: 0.74475384, z: -0.03413075, w: 0.6663665}
+      scale: {x: 1, y: 0.9999998, z: 1.0000007}
+    - name: Arm_3_R
+      parentName: Arm_2_R
+      position: {x: 0.0000000012665987, y: 0.006851988, z: 2.9802322e-10}
+      rotation: {x: -0.3605019, y: 0.7196112, z: -0.23254772, w: 0.5460035}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000005}
+    - name: Spike_R
+      parentName: Arm_3_R
+      position: {x: -1.4901161e-10, y: 0.0059919134, z: -5.9604643e-10}
+      rotation: {x: -0.28462505, y: -0.35770145, z: 0.016091509, w: 0.8892577}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000002}
+    - name: Spike_IK_R
+      parentName: Spike_R
+      position: {x: 0.0000000017881393, y: 0.008424726, z: 0.0000000017881393}
+      rotation: {x: -0.030883431, y: 0.58989483, z: -0.006185189, w: 0.80686563}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: Spike_IK_R_end
+      parentName: Spike_IK_R
+      position: {x: -0, y: 0.0020670118, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail_1
+      parentName: Thorax_1
+      position: {x: 0.00000002183961, y: -0.000594508, z: -0.0047437805}
+      rotation: {x: -0.93384826, y: 0.00045552995, z: 0.00020126843, w: 0.35766903}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: Tail_2
+      parentName: Tail_1
+      position: {x: -2.910383e-13, y: 0.002297833, z: 7.7615936e-10}
+      rotation: {x: 0.3109631, y: -0.00017670673, z: 0.00046417268, w: -0.9504219}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000006}
+    - name: Tail_2_end
+      parentName: Tail_2
+      position: {x: -0, y: 0.004259571, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_B_1_L
+      parentName: Thorax_1
+      position: {x: -0.003920871, y: -0.0005786653, z: -0.00017097905}
+      rotation: {x: -0.78500915, y: 0.38191718, z: 0.16739297, w: 0.4581261}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000005}
+    - name: Leg_B_2_L
+      parentName: Leg_B_1_L
+      position: {x: -3.72529e-10, y: 0.006070635, z: 5.9604643e-10}
+      rotation: {x: 0.38164592, y: 0.064319044, z: -0.0060123205, w: 0.92204845}
+      scale: {x: 1, y: 0.9999997, z: 1}
+    - name: Leg_B_3_L
+      parentName: Leg_B_2_L
+      position: {x: -1.4901161e-10, y: 0.00666955, z: 2.9802322e-10}
+      rotation: {x: 0.6446048, y: 0.0059113503, z: 0.019023571, w: -0.76425636}
+      scale: {x: 1, y: 1.0000005, z: 0.99999994}
+    - name: Leg_B_4_L
+      parentName: Leg_B_3_L
+      position: {x: -4.4703483e-10, y: 0.0055966545, z: 0}
+      rotation: {x: -0.38097537, y: -0.06438857, z: 0.03257121, w: 0.9217652}
+      scale: {x: 1, y: 1.0000005, z: 0.9999995}
+    - name: Leg_B_5_L
+      parentName: Leg_B_4_L
+      position: {x: 0.000000001322478, y: 0.005210019, z: 2.9802322e-10}
+      rotation: {x: -0.13564181, y: -0.0054914355, z: -0.011457726, w: 0.9906765}
+      scale: {x: 1.0000004, y: 1.0000023, z: 1.0000012}
+    - name: Leg_B_IK_L
+      parentName: Leg_B_5_L
+      position: {x: -5.693437e-10, y: 0.0065708957, z: -1.9248546e-10}
+      rotation: {x: -0.047337767, y: 0.4893316, z: -0.004065796, w: 0.8708027}
+      scale: {x: 0.9999995, y: 0.9999999, z: 0.9999998}
+    - name: Leg_B_IK_L_end
+      parentName: Leg_B_IK_L
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_F_1_L
+      parentName: Thorax_1
+      position: {x: -0.0043217354, y: 0.0030396292, z: 0.0064615845}
+      rotation: {x: -0.4661665, y: 0.72812694, z: 0.31913352, w: 0.38816723}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.9999997}
+    - name: Leg_F_3_L
+      parentName: Leg_F_1_L
+      position: {x: 4.4703483e-10, y: 0.0050541526, z: 1.4901161e-10}
+      rotation: {x: 0.36339232, y: 0.011635602, z: -0.10599019, w: 0.92551434}
+      scale: {x: 1.0000006, y: 1, z: 1.0000001}
+    - name: Leg_F_4_L
+      parentName: Leg_F_3_L
+      position: {x: -8.9406965e-10, y: 0.0056991684, z: -5.587935e-10}
+      rotation: {x: -0.6391054, y: 0.14497854, z: 0.04113478, w: 0.7542106}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000008}
+    - name: Leg_F_5_L
+      parentName: Leg_F_4_L
+      position: {x: -1.4901161e-10, y: 0.004677533, z: 1.8408172e-10}
+      rotation: {x: -0.37834066, y: 0.07815812, z: -0.0790475, w: 0.9189675}
+      scale: {x: 0.9999999, y: 1.0000004, z: 0.9999991}
+    - name: Leg_F_6_L
+      parentName: Leg_F_5_L
+      position: {x: -3.72529e-10, y: 0.0048458343, z: -0.0000000012153759}
+      rotation: {x: -0.12818189, y: 0.0029852237, z: -0.04469065, w: 0.9907388}
+      scale: {x: 0.99999976, y: 1.0000008, z: 1.0000004}
+    - name: Leg_F_IK_L
+      parentName: Leg_F_6_L
+      position: {x: -0.000000001742228, y: 0.0045628673, z: 0.00000000216678}
+      rotation: {x: 0.019057918, y: -0.7140368, z: 0.04003002, w: -0.69870293}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000001}
+    - name: Leg_F_IK_L_end
+      parentName: Leg_F_IK_L
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_F_1_R
+      parentName: Thorax_1
+      position: {x: 0.0043217842, y: 0.0030396278, z: 0.0064615523}
+      rotation: {x: -0.46616763, y: -0.72812545, z: -0.3191316, w: 0.3881702}
+      scale: {x: 0.9999998, y: 0.9999988, z: 1.0000001}
+    - name: Leg_F_3_R
+      parentName: Leg_F_1_R
+      position: {x: -8.9406965e-10, y: 0.005054153, z: 0}
+      rotation: {x: 0.36339158, y: -0.01163584, z: 0.10599011, w: 0.92551464}
+      scale: {x: 1.0000008, y: 0.9999997, z: 1.0000007}
+    - name: Leg_F_4_R
+      parentName: Leg_F_3_R
+      position: {x: -4.4703483e-10, y: 0.0056991703, z: -0.000000001899898}
+      rotation: {x: 0.63910496, y: 0.14497845, z: 0.041134804, w: -0.7542109}
+      scale: {x: 0.99999994, y: 1.0000018, z: 1.0000002}
+    - name: Leg_F_5_R
+      parentName: Leg_F_4_R
+      position: {x: 9.685754e-10, y: 0.004677533, z: -4.6231433e-10}
+      rotation: {x: -0.37834045, y: -0.07815814, z: 0.079047546, w: 0.9189675}
+      scale: {x: 1.0000007, y: 0.99999934, z: 1.0000021}
+    - name: Leg_F_6_R
+      parentName: Leg_F_5_R
+      position: {x: -6.3329936e-10, y: 0.0048458357, z: -3.0267983e-10}
+      rotation: {x: -0.12818132, y: -0.002985097, z: 0.044690613, w: 0.9907388}
+      scale: {x: 0.9999999, y: 1.0000019, z: 0.99999964}
+    - name: Leg_F_IK_R
+      parentName: Leg_F_6_R
+      position: {x: 5.761649e-10, y: 0.004562868, z: -1.1878e-10}
+      rotation: {x: -0.019058414, y: -0.7140369, z: 0.040030606, w: 0.69870293}
+      scale: {x: 0.9999997, y: 1.0000008, z: 1.0000006}
+    - name: Leg_F_IK_R_end
+      parentName: Leg_F_IK_R
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_B_1_R
+      parentName: Thorax_1
+      position: {x: 0.003920869, y: -0.0005786655, z: -0.00017100862}
+      rotation: {x: -0.7850096, y: -0.3819155, z: -0.16738978, w: 0.4581279}
+      scale: {x: 1, y: 1.0000005, z: 1.0000006}
+    - name: Leg_B_2_R
+      parentName: Leg_B_1_R
+      position: {x: 5.2154064e-10, y: 0.006070635, z: 0.0000000011920929}
+      rotation: {x: 0.38164556, y: -0.06431907, z: 0.0060124686, w: 0.92204857}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999997}
+    - name: Leg_B_3_R
+      parentName: Leg_B_2_R
+      position: {x: -1.862645e-10, y: 0.006669551, z: 0.000000001490116}
+      rotation: {x: 0.6446047, y: -0.0059113353, z: -0.019023463, w: -0.76425654}
+      scale: {x: 1, y: 0.99999946, z: 0.99999934}
+    - name: Leg_B_4_R
+      parentName: Leg_B_3_R
+      position: {x: 7.4505804e-11, y: 0.005596657, z: 0.0000000011920929}
+      rotation: {x: -0.38097557, y: 0.06438862, z: -0.03257127, w: 0.9217651}
+      scale: {x: 1.0000001, y: 1.0000012, z: 1.0000006}
+    - name: Leg_B_5_R
+      parentName: Leg_B_4_R
+      position: {x: 5.5879353e-11, y: 0.0052100183, z: -8.9406965e-10}
+      rotation: {x: -0.13564175, y: 0.0054911473, z: 0.011457761, w: 0.99067646}
+      scale: {x: 1.0000006, y: 1, z: 1.0000002}
+    - name: Leg_B_IK_R
+      parentName: Leg_B_5_R
+      position: {x: 5.275069e-10, y: 0.006570896, z: 8.212373e-10}
+      rotation: {x: -0.04733781, y: -0.48933142, z: 0.004065976, w: 0.8708027}
+      scale: {x: 1, y: 0.9999996, z: 0.99999934}
+    - name: Leg_B_IK_R_end
+      parentName: Leg_B_IK_R
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_1_L
+      parentName: Thorax_1
+      position: {x: -0.0037784835, y: 0.0055276738, z: 0.0032185789}
+      rotation: {x: -0.43754905, y: 0.41366208, z: 0.77889997, w: -0.1753552}
+      scale: {x: 1.0000014, y: 1.0000011, z: 1.0000006}
+    - name: Pincer_2_L
+      parentName: Pincer_1_L
+      position: {x: 4.4703483e-10, y: 0.0039221505, z: 2.9802322e-10}
+      rotation: {x: -0.030818656, y: -0.81932473, z: 0.06842902, w: 0.5683966}
+      scale: {x: 1.0000006, y: 0.9999999, z: 1.0000006}
+    - name: Pincer_3_L
+      parentName: Pincer_2_L
+      position: {x: 1.4901161e-10, y: 0.0034559693, z: 5.9604643e-10}
+      rotation: {x: 0.2635991, y: 0.77726734, z: 0.061844923, w: 0.5679316}
+      scale: {x: 1.0000001, y: 1.0000018, z: 1.0000005}
+    - name: Pincer_4_L
+      parentName: Pincer_3_L
+      position: {x: 0.0000000013411044, y: 0.0022567331, z: 2.9802322e-10}
+      rotation: {x: -0.34369612, y: -0.7705185, z: 0.42427495, w: -0.3288844}
+      scale: {x: 0.9999997, y: 1.0000015, z: 1.0000012}
+    - name: Pincer_Claw_1_L
+      parentName: Pincer_4_L
+      position: {x: -0.00017397056, y: 0.001196687, z: 0.00062770984}
+      rotation: {x: -0.5287388, y: -0.017341254, z: 0.06670118, w: -0.84598196}
+      scale: {x: 1.0000001, y: 1.0000013, z: 0.99999934}
+    - name: Pincer_Claw_1_L_end
+      parentName: Pincer_Claw_1_L
+      position: {x: -0, y: 0.00095153734, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_Claw_2_L
+      parentName: Pincer_4_L
+      position: {x: -0.00024959492, y: 0.002086569, z: 0.0003488095}
+      rotation: {x: -0.5989578, y: 0.0051268595, z: 0.14724231, w: -0.7871106}
+      scale: {x: 1.0000002, y: 1.0000006, z: 0.9999997}
+    - name: Pincer_Claw_2_L_end
+      parentName: Pincer_Claw_2_L
+      position: {x: -0, y: 0.00119138, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_IK_L
+      parentName: Pincer_4_L
+      position: {x: -4.0978193e-10, y: 0.0016243112, z: -2.2351741e-10}
+      rotation: {x: -0.6288707, y: -0.03235367, z: 0.14564367, w: -0.7630615}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999964}
+    - name: Pincer_IK_L_end
+      parentName: Pincer_IK_L
+      position: {x: -0, y: 0.0015635903, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_1_R
+      parentName: Thorax_1
+      position: {x: 0.0037785068, y: 0.0055276756, z: 0.0032185498}
+      rotation: {x: 0.4375519, y: 0.41366282, z: 0.77889836, w: 0.17535351}
+      scale: {x: 1.0000006, y: 0.99999934, z: 1.0000002}
+    - name: Pincer_2_R
+      parentName: Pincer_1_R
+      position: {x: 0.000000001490116, y: 0.0039221514, z: -1.4901161e-10}
+      rotation: {x: -0.03081876, y: 0.81932455, z: -0.06842925, w: 0.5683969}
+      scale: {x: 1.0000006, y: 0.9999997, z: 1}
+    - name: Pincer_3_R
+      parentName: Pincer_2_R
+      position: {x: 5.9604643e-10, y: 0.0034559711, z: -8.9406965e-10}
+      rotation: {x: 0.26359937, y: -0.7772675, z: -0.06184446, w: 0.56793123}
+      scale: {x: 0.999999, y: 1.0000013, z: 1.0000012}
+    - name: Pincer_4_R
+      parentName: Pincer_3_R
+      position: {x: -8.9406965e-10, y: 0.0022567313, z: -0.0000000013411044}
+      rotation: {x: 0.34369624, y: -0.77051854, z: 0.42427495, w: 0.32888442}
+      scale: {x: 0.999999, y: 1.0000001, z: 1.000002}
+    - name: Pincer_Claw_1_R
+      parentName: Pincer_4_R
+      position: {x: 0.00017397068, y: 0.001196686, z: 0.00062770845}
+      rotation: {x: -0.5287387, y: 0.017341472, z: -0.06670115, w: -0.84598213}
+      scale: {x: 1.0000004, y: 1.0000023, z: 0.99999905}
+    - name: Pincer_Claw_1_R_end
+      parentName: Pincer_Claw_1_R
+      position: {x: -0, y: 0.00095153734, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_Claw_2_R
+      parentName: Pincer_4_R
+      position: {x: 0.0002495946, y: 0.002086569, z: 0.0003488089}
+      rotation: {x: -0.5989576, y: -0.005126701, z: -0.14724226, w: -0.7871107}
+      scale: {x: 1.0000008, y: 1.0000015, z: 0.999999}
+    - name: Pincer_Claw_2_R_end
+      parentName: Pincer_Claw_2_R
+      position: {x: -0, y: 0.00119138, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_IK_R
+      parentName: Pincer_4_R
+      position: {x: 2.6077032e-10, y: 0.0016243098, z: -2.2351741e-10}
+      rotation: {x: -0.62887067, y: 0.032353885, z: -0.14564362, w: -0.7630615}
+      scale: {x: 1.0000004, y: 1.0000013, z: 0.99999917}
+    - name: Pincer_IK_R_end
+      parentName: Pincer_IK_R
+      position: {x: -0, y: 0.0015635903, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_Target_L
+      parentName: Thorax_1
+      position: {x: -0.0028926414, y: 0.008986288, z: 0.009508061}
+      rotation: {x: 0.9314851, y: 0.0000006226478, z: -0.0000017488577, w: 0.3637796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_Target_L_end
+      parentName: Pincer_Target_L
+      position: {x: -0, y: 0.0007351422, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_Target_R
+      parentName: Thorax_1
+      position: {x: 0.002892714, y: 0.008986288, z: 0.009508038}
+      rotation: {x: 0.9314851, y: 0.0000006226478, z: -0.0000017488577, w: 0.3637796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pincer_Target_R_end
+      parentName: Pincer_Target_R
+      position: {x: -0, y: 0.0007351422, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spike_Guide_L
+      parentName: Armature
+      position: {x: -0.008939511, y: -0.02442758, z: 0.010514347}
+      rotation: {x: -0.0065043424, y: -0.34203547, z: 0.90376896, w: -0.25723752}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Spike_Guide_L_end
+      parentName: Spike_Guide_L
+      position: {x: -0, y: 0.0020670118, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spike_Guide_R
+      parentName: Armature
+      position: {x: 0.008939511, y: -0.02442758, z: 0.010514347}
+      rotation: {x: 0.006504283, y: -0.34203547, z: 0.90376896, w: 0.25723755}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Spike_Guide_R_end
+      parentName: Spike_Guide_R
+      position: {x: -0, y: 0.0020670118, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_Target
+      parentName: Armature
+      position: {x: -0.000000009434357, y: -0.015560943, z: 0.026666356}
+      rotation: {x: -0.000000037748926, y: 0.00000008940697, z: 1, w: 3.7303494e-14}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Head_Target_end
+      parentName: Head_Target
+      position: {x: -0, y: 0.0016807616, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_B_Target_R
+      parentName: Armature
+      position: {x: 0.00044551693, y: -0.0058502, z: 0.018848896}
+      rotation: {x: 0.7071068, y: 0.0000000266925, z: 0.000000026692481, w: -0.7071067}
+      scale: {x: 1, y: 1.0000007, z: 0.9999992}
+    - name: Tooth_B_Target_R_end
+      parentName: Tooth_B_Target_R
+      position: {x: -0, y: 0.00018832088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_M_Target_L
+      parentName: Armature
+      position: {x: -0.00042275505, y: -0.007199262, z: 0.019119252}
+      rotation: {x: 0.7071068, y: 0.000000026692561, z: 0.000000026692542, w: -0.7071067}
+      scale: {x: 1, y: 1.0000007, z: 0.9999992}
+    - name: Tooth_M_Target_L_end
+      parentName: Tooth_M_Target_L
+      position: {x: -0, y: 0.00018832088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_F_Target_L
+      parentName: Armature
+      position: {x: -0.00023512676, y: -0.0075663333, z: 0.02016505}
+      rotation: {x: 0.7071068, y: 0.0000000266925, z: 0.000000026692481, w: -0.7071067}
+      scale: {x: 1, y: 1.0000007, z: 0.9999991}
+    - name: Tooth_F_Target_L_end
+      parentName: Tooth_F_Target_L
+      position: {x: -0, y: 0.00018832088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_F_Target_R
+      parentName: Armature
+      position: {x: 0.00023511604, y: -0.0075777564, z: 0.01966518}
+      rotation: {x: 0.7071068, y: 0.00000002669249, z: 0.000000026692492, w: -0.7071067}
+      scale: {x: 1, y: 1.0000007, z: 0.99999917}
+    - name: Tooth_F_Target_R_end
+      parentName: Tooth_F_Target_R
+      position: {x: -0, y: 0.00018832088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_M_Target_R
+      parentName: Armature
+      position: {x: 0.0004227458, y: -0.007187841, z: 0.019619124}
+      rotation: {x: 0.7071068, y: 0.00000002669255, z: 0.000000026692552, w: -0.7071067}
+      scale: {x: 1, y: 1.0000007, z: 0.99999917}
+    - name: Tooth_M_Target_R_end
+      parentName: Tooth_M_Target_R
+      position: {x: -0, y: 0.00018832088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tooth_B_Target_L
+      parentName: Armature
+      position: {x: -0.00044552475, y: -0.0058387774, z: 0.019348765}
+      rotation: {x: 0.7071068, y: 0.000000026692504, z: 0.000000026692508, w: -0.7071067}
+      scale: {x: 1, y: 1.0000007, z: 0.99999917}
+    - name: Tooth_B_Target_L_end
+      parentName: Tooth_B_Target_L
+      position: {x: -0, y: 0.00018832088, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_F_Guide_R
+      parentName: Armature
+      position: {x: 0.018091239, y: -0.011520536, z: -0.000006554723}
+      rotation: {x: 0.7071068, y: 0.00000002669252, z: 0.000000026692517, w: -0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_F_Guide_R_end
+      parentName: Leg_F_Guide_R
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_B_Guide_R
+      parentName: Armature
+      position: {x: 0.017204534, y: 0.01148612, z: 0.000005548596}
+      rotation: {x: 0.7071068, y: 0.00000002669252, z: 0.000000026692517, w: -0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_B_Guide_R_end
+      parentName: Leg_B_Guide_R
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_B_Guide_L
+      parentName: Armature
+      position: {x: -0.017204534, y: 0.01148612, z: 0.000005548596}
+      rotation: {x: 0.7071068, y: 0.00000002669252, z: 0.000000026692517, w: -0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_B_Guide_L_end
+      parentName: Leg_B_Guide_L
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Floor
+      parentName: Armature
+      position: {x: -0, y: 0, z: -0.00011660277}
+      rotation: {x: 0.7071067, y: -0.000000026692517, z: 0.00000002669252, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Floor_end
+      parentName: Floor
+      position: {x: -0, y: 0.0032593422, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_F_Guide_L
+      parentName: Armature
+      position: {x: -0.018091239, y: -0.011520536, z: -0.000006554723}
+      rotation: {x: 0.7071068, y: 0.00000002669252, z: 0.000000026692517, w: -0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_F_Guide_L_end
+      parentName: Leg_F_Guide_L
+      position: {x: -0, y: 0.0009053725, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rikayon
+      parentName: crab-monster(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyes
+      parentName: crab-monster(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: 0.7071068, z: -0.00000004750303, w: 0.00000004750302}
+      scale: {x: 0.1308108, y: 0.1308108, z: 0.1308108}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
